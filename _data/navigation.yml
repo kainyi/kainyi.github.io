@@ -3,7 +3,7 @@ main:
   - title: "Category"
     url: https://kainyi.github.io/categories/
   - title: "About"
-    url: https://kainyi.github.io/about/
+    url: /pages/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
